@@ -11,3 +11,5 @@ Las librerias que tienes que tener para ejecutar con python son:
   - sqlalchemy
   - mysql-connector-python
 Para instalar las librerias deberemos emplear el comando: pip install nombre_librería
+
+Para ejecutar el codigo desde la terminal ejecutaremos el comando: python main.py
